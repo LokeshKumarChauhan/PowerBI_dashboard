@@ -1,0 +1,46 @@
+The complete Power BI Masterclass Series on udemy (I have aggregated some classes together to provide more content value per class for you. I really hope that serves you better!
+
+1. Power BI Masterclass - beginners to advanced
+
+2. Microsoft Power BI Masterclass - Expand Excellence
+
+3.Power BI Masterclass - DAX, Excel And More
+
+4. The Power BI Masterclass - Additional Tips and Tricks
+
+5. Power BI Desktop - Data Prep Challenges
+
+6. Power BI Masterclass - DAX, R and Gateways
+
+7. Power BI Masterclass - Python Finance and Advanced DAX
+
+8. Power BI Masterclass - the next level
+
+9. Power BI DAX Fundamentals Mastering the Key Concepts
+
+10. Power BI Masterclass Calculation Groups with Tabular Editor
+
+11. The Power BI Service Masterclass
+
+12. How to build a profit and loss statement in Power BI Desktop
+
+
+
+ The complete Masterclass Series which covers all relevant features in Power BI consists of 12 courses now. This one is the first.The other  consecutive classes are available here on udemy.  Each course covers additional DAX insights, Power BI features, tips and tricks and best practices in report creation. If you find this course helpful then feel free to check them out as well. You can easily find them by checking out my Instructor profile.
+
+best regards and happy learning.
+
+
+
+
+
+What you’ll learn
+Taking the Power BI Masterclass series on udemy will prepare you to start your data analytics career
+You can quickly create stunning reports in Power BI
+You can transform messy data into the right format
+You can generate valuable insights for yourself and your company
+You can improve strategic decision making and create competitive advantages
+You can write powerful advanced Dax calculations in Microsoft Power BI
+You can design Power BI Reports
+You can create Power BI Dashboards (Reports) in no time
+Please note! Mac Users have currently only the option to use Power BI via the Power BI Service in their browser (some limitations ) or with Turbo

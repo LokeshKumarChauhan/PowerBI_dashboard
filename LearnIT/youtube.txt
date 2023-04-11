@@ -1,0 +1,239 @@
+Power BI Beginner Tutorial
+
+Exercise Files: https://bit.ly/2W9iMvZ
+
+Who it's for: Business Analysts, Data Analysts, and everyone in between looking to take the next step in data processing and visualization.
+
+What it is: Power BI is Microsoft’s business analytics platform. It’s designed from the ground up to take mass sets of data and organize, analyze, and visualize it using live dashboards and interactive reports.
+
+What you'll learn: In this series, users will be introduced to the foundational concepts of building queries and prepping data for analysis. Users will learn to build relationships across multiple databases using Power Pivot, all the while learning useful functions to help take data to the next level. Become familiar with building and navigating live dashboards and interactive reports, and much more.
+
+Start 0:00
+Introduction 0:03
+Data Analytics 5:44
+Licensing Options 8:03
+Products and Services 10:09
+Accessing Course Exercise Files 12:46
+Reviewing Exercise File Data 13:01
+Getting Data from Multiple Sources 14:17
+Getting Data from Excel 16:14
+Saving 18:21
+Touring Report View 20:55
+Touring Data View 25:49
+Touring Model View 28:04
+Starting New Instances of Power BI Desktop 30:28
+Splash Screen 32:28
+Getting Data from Access Database 35:32
+Selecting Related Tables 40:05
+Viewing Table Relationships and Settings 42:42
+Accessing a Web URL 47:11
+Getting Data from the Web 49:13
+Web Authentication and Loading Tables 51:41
+Exploring Web Data Inconsistencies 54:59
+Optimizing Performance with Excel Files 57:06
+Optimizing Performance with Power Pivot Data Model 59:25
+Connecting to Underlying PivotTable Data 1:01:04
+Importing from Power Pivot Data Model 1:03:15
+Resolving Data Load Error 1:06:45
+Resolving Data Path Error 1:09:51
+Resolving Refresh Error 1:13:18
+Exploring Power View Visualization Error 1:16:01
+Implications of Locally Stored vs Cloud Based Excel Files 1:19:24
+Locally Stored Excel Files 1:19:53
+Refreshing In-Desktop and In-Service 1:22:02
+Cloud-Based Excel Files 1:24:48
+Publishing Cloud-Based Files to the Service and Refreshing 1:30:44
+Conclusion 1:35:31
+
+#PowerBI
+
+===============================================================================
+
+Power BI Intermediate Tutorial
+
+Start 0:00
+Introduction 0:03
+Data Shaping - Renaming Tables 0:42
+Data Shaping - Promoting the First Row 2:21
+Data Shaping - Duplicating Column Replace Values 4:41
+Data Shaping - Removing Columns 7:29
+Data Shaping - Filtering, Sorting, and Applying Changes 9:36
+Introduction to Enhancing Data Structure 13:52
+Enhancing Data Structure - Join Types Merge Queries 16:25
+Data Profiling Recap 21:16
+Introduction to Designing a Data Model 26:03
+Working with Tables 27:09
+Fact vs Dimension 33:04
+Breaking Down Tables 34:30
+Creating Hierarchy 41:10
+Relationships aka Cardinality 43:26
+Creating Relationships 45:20
+Reviewing the Model Interface 51:26
+Creating RLS Roles in Desktop 55:10
+Assigning Users to RLS Roles in Service 59:34
+Conclusion 1:01:59
+
+#PowerBI
+
+===============================================================================
+Power BI Advanced Tutorial
+
+Start 0:00
+Introduction 0:03
+Creating Calculated Tables 2:08
+Creating Calculated Columns - DATEDIFF 6:03
+Creating Calculated Columns - RANKX Highest 9:32
+Creating Calculated Columns - RANKX Lowest 12:54
+Creating Calculated Columns - RANKX Dense 18:50
+Creating Quick Measures 20:40
+Creating Measures 26:54
+Creating Date Tables 31:38
+Time Intelligence Functions 41:59
+Key Performance Indicators 46:13
+Additional Key Performance Indicators 49:59
+DAX Recap 53:44
+Introduction to Optimizing Model Performance 54:41
+Publishing Dataset to Service 57:16
+Using DirectQuery on Power BI Dataset 59:48
+DirectQuery vs Import File Size Comparison 1:01:46
+Importance of Variables 1:05:09
+Building a Measure to Use in a Measure 1:07:11
+Building a Measure with Variables and Comments 1:09:06
+Adding Measures to Multi-Row Card 1:16:59
+Other Optimization Techniques 1:19:53
+Conclusion 1:21:23
+
+#PowerBI
+===============================================================================
+
+Power BI Professional Tutorial
+
+Exercise Files: https://bit.ly/2W9iMvZ
+
+Who it's for: Business Analysts, Data Analysts, and everyone in between looking to take the next step in data processing and visualization.
+
+What it is: Power BI is Microsoft’s business analytics platform. It’s designed from the ground up to take mass sets of data and organize, analyze, and visualize it using live dashboards and interactive reports.
+
+What you'll learn: In this series, users will be introduced to the foundational concepts of building queries and prepping data for analysis. Users will learn to build relationships across multiple databases using Power Pivot, all the while learning useful functions to help take data to the next level. Become familiar with building and navigating live dashboards and interactive reports, and much more.
+
+Join Learnit Anytime for ad-free training, exams, certificates, and exclusive content:
+https://www.learnitanytime.com
+
+Enroll in our live, instructor-led Power BI classes:
+https://bit.ly/33rA8Yg
+
+For Private Group Trainings please visit: 
+https://www.learnit.com/private-group...
+
+Join our online community! - https://www.offsitebylearnit.com
+
+Manuals: https://bit.ly/30xZb59 
+Username: manuals
+Password: password
+
+Start 0:00
+Introduction 0:03
+Sharing Dashboards 0:51
+Revoking Sharing Privileges 2:32
+Sharing Reports 4:06
+Copying Reports to Other Workspaces and Workspace Roles 6:58
+Creating and Publishing Apps 10:48
+Managing Workspaces Recap 17:41
+Introduction to Managing Datasets 18:21
+Creating Parameters 19:46
+Editing Parameters in the Service and Refreshing Datasets and Visuals 20:23
+Refresh Options 25:44
+Managing Datasets Recap 30:03
+Conclusion 33:35
+
+#PowerBI
+
+===================================================================================
+Power BI Beginner Tutorial
+
+Exercise Files: https://bit.ly/2S4ARFI
+
+Start 0:00
+Introduction 0:03
+Downloading Software 1:18
+What is Power BI? 6:34
+Course Trajectory 7:56
+Introduction to Part 1 11:00
+What is a Query or Power Query? 12:28
+Querying Data 14:49
+Query Excel Files 16:17
+Normalizing Concepts 20:54
+Appending Queries 25:00
+Querying Web Pages 30:29
+Merging Queries (Part 1) 34:33
+Merging Queries (Part 2) 36:34
+Normalizing Data 42:27
+Lab - Querying Data and Analyzing Results 57:36
+Limitations of Excel's Pivot Tables 58:30
+Introduction to Power BI Desktop 1:08:18
+Querying 1:12:29
+Creating Basic Visuals 1:19:36
+Customizing Basic Visuals 1:24:44
+Map Visuals 1:29:24
+Card Visuals 1:32:38
+Shapes and Text Boxes 1:36:29
+Slicers 1:39:23
+Gauge Visuals 1:41:11
+Lab - Creating Reports 1:44:25
+Lab - Walkthrough (Part 1) 1:45:53
+Lab - Walkthrough (Part 2) 1:56:30
+Conclusion 2:07:06
+
+#PowerBI
+
+=======================================================================================
+
+Power BI Advanced Tutorial
+
+Exercise Files: https://bit.ly/2S4ARFI
+
+Who it's for:  Business Analysts, Data Analysts, and everyone in between looking to take the next step in data processing and visualization.
+
+What it is:  Power BI is Microsoft’s business analytics platform. It’s designed from the ground up to take mass sets of data and organize, analyze, and visualize it using live dashboards and interactive reports.
+
+What you'll learn:  In this series, users will be introduced to the foundational concepts of building queries and prepping data for analysis. Users will learn to build relationships across multiple databases using Power Pivot, all the while learning useful functions to help take data to the next level. Become familiar with building and navigating live dashboards and interactive reports, and much more.
+
+For ad free training and certificates please join Learnit Anytime: 
+https://www.learnitanytime.com
+
+Enroll in our live, instructor-led Power BI classes:
+https://bit.ly/3IbAi5j
+
+For Private Group Trainings please visit: 
+https://www.learnit.com/private-group...
+
+Join our online community! - https://www.offsitebylearnit.com
+
+Start 0:00
+Introduction 00:03
+Opening Power Pivot 11:09
+Importing from Access 15:06
+Save and Save Often 20:55
+Importing from Excel 21:50
+Creating Power Pivot Tables 26:26
+Creating Relationships 33:36
+Calculated Columns 37:52
+Basic Measures 47:03
+DAX & Derived Measures 54:55
+CALCULATE 1:03:07
+Lab - Creating Measures 1:11:59
+Importing Excel Data Model into Power BI 1:13:33
+Measures in Power BI 1:17:19
+Visualizing Measures 1:22:33
+Creating Calendar Tables 1:27:38
+Save and Save Often 1:42:10
+Sorting by Column 1:42:31
+Drilling Down 1:46:12
+Lab - Creating Analysis Reports 1:49:51
+Publishing to Power BI Online 1:50:39
+Creating Dashboards 1:53:07
+Sharing Dashboards 2:01:26
+Q&A 2:05:43
+Conclusion 2:07:25
+
+#PowerBI
