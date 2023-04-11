@@ -1,0 +1,32 @@
+create database windowFunctionsPractice;
+use windowFunctionsPractice;
+
+DROP TABLE IF EXISTS student_score;
+
+CREATE TABLE student_score (
+  student_id SERIAL PRIMARY KEY,
+  student_name VARCHAR(30),
+  dep_name VARCHAR(40),
+  score INT
+);
+
+INSERT INTO student_score VALUES (11, 'Inaya', 'Computer Science', 80);
+INSERT INTO student_score VALUES (7, 'Taiwo', 'Microbiology', 76);
+INSERT INTO student_score VALUES (9, 'Nancy', 'Biochemistry', 80);
+INSERT INTO student_score VALUES (8, 'Joel', 'Computer Science', 90);
+INSERT INTO student_score VALUES (10, 'Mustachio', 'Industrial Chemistry', 78);
+INSERT INTO student_score VALUES (5, 'Muritadoh', 'Biochemistry', 85);
+INSERT INTO student_score VALUES (2, 'Tasigne', 'Biochemistry', 70);
+INSERT INTO student_score VALUES (3, 'Barbarra', 'Microbiology', 80);
+INSERT INTO student_score VALUES (1, 'Tomiwa', 'Microbiology', 65);
+INSERT INTO student_score VALUES (4, 'Gbadebo', 'Computer Science', 80);
+INSERT INTO student_score VALUES (12, 'Tolu', 'Computer Science', 67);
+
+
+Tasks:
+
+-- compare the minimum score and maximum score from all the records in the table .
+-- compare the maximum score and average score in each department with the individual score.
+-- add row numbers to the dataset based on their names in alphabetical order.
+-- Provide department wise rank holders based on their score(rank and dense rank 2 queries expected;
+-- Provide cumulative sum of all the student scores.
