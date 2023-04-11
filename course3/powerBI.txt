@@ -1,0 +1,64 @@
+DAX - Data analysis expression
+==============================
+ Timestamps
+0:00 Introduction 
+0:49 Import data & create data model 
+3:25 Define relationships 			-  on  a column of both the tables
+5:14 Create new measure using sum function-  
+10:22 Format measures
+11:44 Edit & delete measures
+12:33 Create new measure using count function
+14:30 Create new measure using distinct function 
+16:02 Add comments to measures
+16:56 Create new measure with operators
+19:08 Quick Measure tool
+20:36 Create calculated column
+21:38 Measure vs. calculated column
+22:07 Measure that references another measure
+24:19 Iterator functions
+27:32 Time & date functions
+30:12 Find function
+ 
+33:54 Calculate function
+36:39 Wrap up
+
+
+MS power Query
+==============
+
+ Timestamps
+00:00 Introduction
+00:59 Sample data 
+2:14 How to get Power Query
+2:31 Get data
+3:35 Combine data
+ 
+7:00 Transform data
+11:21 Applied steps
+12:06 Close & Load
+12:33 Data imported into Excel
+13:34 Insert pivot table & chart
+14:46 Importing additional data
+16:00 Wrap up
+
+MS Power BI 
+===========
+
+TIMESTAMPS
+00:00 Introduction
+01:01 Download and install
+03:00 Welcome screen
+04:20 Sample data overview
+06:00 Get data spreadsheet
+07:40 Transform data from spreadsheet using Power Query Editor
+10:10 Get data from web
+11:25 Transform data from web using Power Query Editor
+13:10 Join tables by merging queries
+14:27 Overview of Power BI layout, including fields and visualizations
+16:40 Insert title
+17:20 Insert variety of visualizations
+22:10 Insert slicer
+23:30 Apply theme and change style
+25:00 Save and Publish report
+26:30 Share with others
+27:05 Wrap up
